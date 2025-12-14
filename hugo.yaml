@@ -1,0 +1,85 @@
+# ========================
+# Hugo 基础配置
+# ========================
+theme: "LoveIt"
+baseURL: "http://localhost:1313/"
+defaultContentLanguage: "zh"
+defaultContentLanguageInSubdir: true
+
+# ⚠️ Hugo 级别的站点标题（LoveIt header 的最终兜底）
+title: "在场"
+
+# ========================
+# LoveIt 全局参数（非常关键）
+# ========================
+params:
+  # LoveIt 会直接用这个作为 header / OG / SEO 的站点名
+  title: "在场"
+  description: "事情不尽然如此"
+
+  # Header（左上角站名就在这里）
+  header:
+    desktopMode: fixed
+    mobileMode: auto
+    title:
+      name: "在场"
+      typeit: false
+
+  # Home 页面
+  home:
+    profile:
+      enable: true
+      title: "在场"
+      subtitle: "事情不尽然如此"
+      typeit: false
+    posts:
+      enable: true
+      paginate: 10
+
+  # Footer（保持简洁）
+  footer:
+    enable: true
+    hugo: false
+    copyright: true
+
+# ========================
+# 多语言配置
+# ========================
+languages:
+  zh:
+    languageName: "中文"
+    languageCode: "zh-CN"
+    weight: 1
+    contentDir: "content/zh"
+    title: "在场"
+    params:
+      title: "在场"
+      description: "事情不尽然如此"
+      header:
+        title:
+          name: "在场"
+          typeit: false
+      home:
+        profile:
+          title: "在场"
+          subtitle: "事情不尽然如此"
+          typeit: false
+
+  en:
+    languageName: "English"
+    languageCode: "en"
+    weight: 2
+    contentDir: "content/en"
+    title: "Where I Stand"
+    params:
+      title: "Where I Stand"
+      description: "Against Easy Answers"
+      header:
+        title:
+          name: "Where I Stand"
+          typeit: false
+      home:
+        profile:
+          title: "Where I Stand"
+          subtitle: "Against Easy Answers"
+          typeit: false

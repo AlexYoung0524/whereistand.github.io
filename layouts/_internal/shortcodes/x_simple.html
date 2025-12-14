@@ -1,0 +1,19 @@
+{{- /* Minimal x_simple shortcode fallback: reuse x.html if present */ -}}
+{{- $v := "" -}}
+{{- with .Get 0 -}}{{- $v = . -}}{{- end -}}
+{{- if not $v -}}
+  {{- with .Get "url" -}}{{- $v = . -}}{{- end -}}
+{{- end -}}
+{{- if not $v -}}
+  {{- $user := .Get "user" | default "" -}}
+  {{- $id := .Get "id" | default "" -}}
+  {{- if and $user $id -}}
+    {{- $v = printf "https://x.com/%s/status/%s" $user $id -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if $v -}}
+  <p><a href="{{ $v | safeURL }}" rel="nofollow noopener" target="_blank">{{ $v }}</a></p>
+{{- else -}}
+  <!-- x_simple shortcode: missing parameters -->
+{{- end -}}

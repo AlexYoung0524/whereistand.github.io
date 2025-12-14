@@ -1,0 +1,9 @@
+{{- define "_default/_markup/render-codeblock.html" -}}
+  {{- $lang := .Attributes.lang | default "" -}}
+  {{- $code := .Inner | strings.TrimPrefix "\n" | strings.TrimSuffix "\n" -}}
+  {{- if $lang -}}
+    {{ highlight $code $lang "" }}
+  {{- else -}}
+    <pre><code>{{ $code | htmlEscape }}</code></pre>
+  {{- end -}}
+{{- end -}}

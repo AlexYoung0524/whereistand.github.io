@@ -1,0 +1,16 @@
+{{- /* Minimal Instagram shortcode fallback. Accepts an id or a full URL. */ -}}
+{{- $v := "" -}}
+{{- with .Get 0 -}}{{- $v = . -}}{{- end -}}
+{{- if not $v -}}
+  {{- with .Get "url" -}}{{- $v = . -}}{{- end -}}
+{{- end -}}
+
+{{- if $v -}}
+  {{- /* If user passed only an id, build a URL */ -}}
+  {{- if not (hasPrefix $v "http") -}}
+    {{- $v = printf "https://www.instagram.com/p/%s/" $v -}}
+  {{- end -}}
+  <p><a href="{{ $v | safeURL }}" rel="nofollow noopener" target="_blank">{{ $v }}</a></p>
+{{- else -}}
+  <!-- instagram shortcode: missing parameters -->
+{{- end -}}

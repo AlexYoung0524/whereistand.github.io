@@ -1,0 +1,13 @@
+{{- /* Override LoveIt desktop header title */ -}}
+<header class="desktop" id="header-desktop">
+  <div class="header-wrapper">
+    <div class="header-title">
+      <a href="{{ "/" | relLangURL }}" title="{{ .Site.Title }}">
+        {{ .Site.Title }}
+      </a>
+    </div>
+
+    {{- /* 下面这一行保留主题原本的菜单/按钮区域（语言切换、暗色模式等） */ -}}
+    {{ partial "header/menu.html" . }}
+  </div>
+</header>
