@@ -2,7 +2,7 @@
 # Hugo 基础配置
 # ========================
 theme: "LoveIt"
-baseURL: "http://localhost:1313/"
+baseURL: "https://whereistand.xyz/"
 defaultContentLanguage: "zh"
 defaultContentLanguageInSubdir: true
 
