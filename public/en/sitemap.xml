@@ -2,46 +2,48 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/en/posts/hello/</loc><lastmod>2025-12-14T00:00:00&#43;00:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/en/categories/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
                         rel="alternate"
-                        hreflang="zh"
-                        href="http://localhost:1313/zh/posts/hello/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/posts/hello/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-12-14T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh"
-                        href="http://localhost:1313/zh/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/posts/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/</loc><lastmod>2025-12-14T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh"
-                        href="http://localhost:1313/zh/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/categories/</loc><xhtml:link
-                        rel="alternate"
-                        hreflang="zh"
-                        href="http://localhost:1313/zh/categories/"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:1313/en/categories/"
                     /></url><url>
+            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/posts/"
+                    /></url><url>
+            <loc>http://localhost:1313/en/posts/1_same-same/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/posts/1_same-same/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/posts/1_same-same/"
+                    /></url><url>
+            <loc>http://localhost:1313/en/categories/wandering-thoughts/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/en/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/"
+                    /></url><url>
+            <loc>http://localhost:1313/en/posts/hello/</loc><lastmod>2025-12-14T00:00:00&#43;00:00</lastmod></url><url>
             <loc>http://localhost:1313/en/tags/</loc><xhtml:link
                         rel="alternate"
-                        hreflang="zh"
-                        href="http://localhost:1313/zh/tags/"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
