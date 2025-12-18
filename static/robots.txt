@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Block some aggressive SEO/monitoring bots (optional)
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SISTRIX Crawler
+Disallow: /
+
+User-agent: UptimeRobot/2.0
+Disallow: /
+
+Sitemap: https://whereistand.xyz/sitemap.xml
+Sitemap: https://whereistand.xyz/zh-cn/sitemap.xml
+Sitemap: https://whereistand.xyz/en/sitemap.xml
