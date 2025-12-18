@@ -1,19 +1,15 @@
 User-agent: *
 Allow: /
 
-# Block some aggressive SEO/monitoring bots (optional)
+# Optional: block some aggressive bots
 User-agent: MJ12bot
 Disallow: /
-
 User-agent: AhrefsBot
 Disallow: /
-
 User-agent: BLEXBot
 Disallow: /
-
 User-agent: SISTRIX Crawler
 Disallow: /
-
 User-agent: UptimeRobot/2.0
 Disallow: /
 

@@ -13,7 +13,7 @@ contentDir = "content/zh-cn"
 copyright = "© All rights reserved."
 
 # whether to use robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # whether to use git commit log
 enableGitInfo = false
@@ -140,6 +140,7 @@ enableEmoji = true
             enable = false
 
     # 搜索栏
+    
     [params.search]
         enable = true
         type = "lunr"
@@ -149,7 +150,7 @@ enableEmoji = true
         snippetLength = 30
         highlightTag = "em"
         absoluteURL = false
-
+        
     # App icon config
     # 应用图标配置
     [params.app]
@@ -171,6 +172,7 @@ enableEmoji = true
 
     # === 1. 中文配置 ===
     [languages.zh-cn]
+        hasCJKLanguage = true
         weight = 1
         languageCode = "zh-CN"
         languageName = "简体中文"
@@ -226,6 +228,7 @@ enableEmoji = true
         
     # === 2. 英文配置 ===
     [languages.en]
+        hasCJKLanguage = false
         weight = 2
         languageCode = "en"
         languageName = "English"
