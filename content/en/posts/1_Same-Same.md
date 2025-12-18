@@ -23,7 +23,7 @@ And of course, fake books were pirated and illegal. Once these little cards and 
 
 This kind of blatant piracy naturally attracted the attention of the FBI, and the result of their investigation is also oddly amusing. In 1964, the FBI’s Cleveland office wrote a line in a file that sounds almost exaggerated. Roughly: almost every professional musician owned at least one of these fake books, because they might be among the most useful reference tools a working musician could have. Well then. Bad money drives out good. 
 
-![Blue Train](/static/images/posts/Same-Same/blue-train.jpg)
+![Blue Train](/images/posts/Same-Same/blue-train.jpg)
 
 Later the most legendary version appeared. In the 1970s, students at Berklee College of Music put together what became The Real Book. It was essentially another fake book, just better made and more aligned with the jazz repertoire of its time, so it quickly became a kind of holy text inside the scene. The problem was that it was still pirated. It was printed at copy shops, passed around through acquaintances, coded signals, and the kind of distribution where someone pulls it out of a trunk. Later, publishers negotiated rights one tune at a time, and around 2004 a more official legal version appeared, namely The Real Book 6th Edition.
 

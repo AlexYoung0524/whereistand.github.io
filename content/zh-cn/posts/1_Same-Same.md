@@ -25,7 +25,7 @@ George 一经推出这个 Tune-Dex 立刻火爆，有人把这种形式的材料
 
 而这么明目张胆的盗版曲谱自然也引来了 FBI 的注意。FBI 的调查结果也非常有趣：1964 年，FBI 的克利夫兰办公室在文件里写过一句很夸张的话，大意是：几乎每个职业乐手都至少有一本这种假谱集，因为它们可能是职业乐手“最有用的参考资料之一”。嗯，劣币驱逐良币了。
 
-![Blue Train](/static/images/posts/Same-Same/blue-train.jpg)
+![Blue Train](/images/posts/Same-Same/blue-train.jpg)
 
 后来最传奇的版本，是七十年代伯克利音乐学院那群学生搞出来的 The Real Book。它本质上也是 fake book，只是写得更“像样”，曲目更贴近当时的爵士语境，于是迅速成了圈内圣经。问题是它还是盗版，印在复印店里，靠熟人、靠暗号、靠“从后备箱掏出来”这种方式流通。再后来，出版社把版权一首首谈下来，2004 年左右才出现更正规的合法版本，也就是 *The Real Book 6th Edition*。
 
