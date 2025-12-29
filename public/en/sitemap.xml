@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/en/categories/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/en/categories/</loc><lastmod>2025-12-29T22:00:00&#43;01:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/zh-cn/categories/"
@@ -11,7 +11,7 @@
                     hreflang="en"
                     href="http://localhost:1313/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
+            <loc>http://localhost:1313/en/posts/</loc><lastmod>2025-12-29T22:00:00&#43;01:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="http://localhost:1313/zh-cn/posts/"
@@ -19,6 +19,25 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:1313/en/posts/"
+                    /></url><url>
+            <loc>http://localhost:1313/en/posts/2_lbj/</loc><lastmod>2025-12-29T22:00:00&#43;01:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/posts/2_lbj/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/posts/2_lbj/"
+                    /></url><url>
+            <loc>http://localhost:1313/en/categories/wandering-thoughts/</loc><lastmod>2025-12-29T22:00:00&#43;01:00</lastmod></url><url>
+            <loc>http://localhost:1313/en/</loc><lastmod>2025-12-29T22:00:00&#43;01:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="http://localhost:1313/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="http://localhost:1313/en/"
                     /></url><url>
             <loc>http://localhost:1313/en/posts/1_same-same/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
                         rel="alternate"
@@ -28,16 +47,6 @@
                     rel="alternate"
                     hreflang="en"
                     href="http://localhost:1313/en/posts/1_same-same/"
-                    /></url><url>
-            <loc>http://localhost:1313/en/categories/wandering-thoughts/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod></url><url>
-            <loc>http://localhost:1313/en/</loc><lastmod>2025-12-17T22:00:00&#43;01:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="http://localhost:1313/en/"
                     /></url><url>
             <loc>http://localhost:1313/en/tags/</loc><xhtml:link
                         rel="alternate"
