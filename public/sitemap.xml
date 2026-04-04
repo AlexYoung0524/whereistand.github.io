@@ -4,7 +4,11 @@
   <sitemap>
     <loc>http://localhost:1313/zh-cn/sitemap.xml</loc>
     
+<<<<<<< HEAD
       <lastmod>2026-04-05T00:00:00+01:00</lastmod>
+=======
+      <lastmod>2026-03-11T19:00:00+01:00</lastmod>
+>>>>>>> b73d4e5c7f0d5552c0c1809673561ea6eb0b469c
     
   </sitemap>
   
