@@ -35,6 +35,10 @@ enableEmoji = true
 [params]
     defaultTheme = "auto"
 
+    [params.analytics.google]
+        id = "G-H6MGDT17W0"
+        respectDoNotTrack = false
+
     [params.typeit]
         speed = 90
         cursorSpeed = 900
