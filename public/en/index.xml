@@ -4,9 +4,18 @@
         <link>http://localhost:1313/en/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jihui.yang0.0@gmail.com (Joey)</managingEditor>
-            <webMaster>jihui.yang0.0@gmail.com (Joey)</webMaster><copyright>© All rights reserved.</copyright><lastBuildDate>Tue, 09 Jun 2026 00:00:00 &#43;0200</lastBuildDate>
+            <webMaster>jihui.yang0.0@gmail.com (Joey)</webMaster><copyright>© All rights reserved.</copyright><lastBuildDate>Thu, 17 Sep 2026 23:00:00 &#43;0200</lastBuildDate>
             <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Ask for the Roof, Get the Window</title>
+    <link>http://localhost:1313/en/posts/7_ask-for-the-roof-get-the-window/</link>
+    <pubDate>Thu, 17 Sep 2026 23:00:00 &#43;0200</pubDate>
+    <author>jihui.yang0.0@gmail.com (Joey)</author>
+    <guid>http://localhost:1313/en/posts/7_ask-for-the-roof-get-the-window/</guid>
+    <description><![CDATA[<h2 id="1-is-the-far-right-rising-or-falling">1. Is the &ldquo;far right&rdquo; rising or falling?</h2>
+<p>On 6 September 2026, Saxony-Anhalt held its state election. The Alternative for Germany (AfD) took 43.8% of the vote and 39 of 83 seats, three short of a majority on its own. Three days later, Chancellor Merz stood up in the Bundestag and twice described the AfD&rsquo;s &ldquo;remigration&rdquo; as ethnic cleansing by origin and skin colour. The AfD filed a criminal complaint against him.</p>]]></description>
+</item>
+<item>
     <title>Waht is &#34;China&#34;</title>
     <link>http://localhost:1313/en/posts/5_what_is_china/</link>
     <pubDate>Tue, 09 Jun 2026 00:00:00 &#43;0200</pubDate>
